@@ -1,0 +1,6 @@
+{
+  "parent": "item/generatd",
+  "textures": {
+    "layer0": "epicfightaddon:item/jjk_cursedenergy"
+  }
+}
